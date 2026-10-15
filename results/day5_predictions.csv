@@ -1,0 +1,5 @@
+Comment,Cleaned Comment,Probability,Prediction
+You are an idiot.,idiot,0.9999884366989136,Abusive
+Have a wonderful day.,wonderful day,0.003092220751568675,Non-Abusive
+Go away loser.,go away loser,0.9999498724937439,Abusive
+Thank you for your help.,thank help,0.002252731239423156,Non-Abusive
